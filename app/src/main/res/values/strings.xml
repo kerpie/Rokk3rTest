@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Rokk3rTest</string>
+
+    <string name="button_text">Buy</string>
+    <string name="total_products_in_cart">Products in cart:</string>
+    <string name="dialog_title">Products in cart</string>
+    <integer name="total_of_products">20</integer>
+
+    <string-array name="names">
+        <item>Product 1</item>
+        <item>Product 2</item>
+        <item>Product 3</item>
+        <item>Product 4</item>
+        <item>Product 5</item>
+        <item>Product 6</item>
+        <item>Product 7</item>
+        <item>Product 8</item>
+        <item>Product 9</item>
+        <item>Product 10</item>
+        <item>Product 11</item>
+        <item>Product 12</item>
+        <item>Product 13</item>
+        <item>Product 14</item>
+        <item>Product 15</item>
+        <item>Product 16</item>
+        <item>Product 17</item>
+        <item>Product 18</item>
+        <item>Product 19</item>
+        <item>Product 20</item>
+    </string-array>
+
+    <integer-array name="prices">
+        <item>35</item>
+        <item>21</item>
+        <item>38</item>
+        <item>34</item>
+        <item>13</item>
+        <item>28</item>
+        <item>12</item>
+        <item>34</item>
+        <item>10</item>
+        <item>8</item>
+        <item>24</item>
+        <item>23</item>
+        <item>20</item>
+        <item>35</item>
+        <item>7</item>
+        <item>1</item>
+        <item>15</item>
+        <item>12</item>
+        <item>9</item>
+        <item>17</item>
+    </integer-array>
+
+    <integer-array name="stock">
+        <item>88</item>
+        <item>90</item>
+        <item>5</item>
+        <item>68</item>
+        <item>72</item>
+        <item>30</item>
+        <item>70</item>
+        <item>22</item>
+        <item>58</item>
+        <item>52</item>
+        <item>84</item>
+        <item>8</item>
+        <item>87</item>
+        <item>94</item>
+        <item>27</item>
+        <item>84</item>
+        <item>89</item>
+        <item>95</item>
+        <item>8</item>
+        <item>32</item>
+    </integer-array>
+</resources>
